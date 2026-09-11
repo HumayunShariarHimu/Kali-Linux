@@ -2,14 +2,12 @@
 
 > A curated and organized collection of resources related to **Kali-Linux**.
 
-**Maintained by [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)**
 
 # Kali Linux Tools Documentation
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UClhKVCHjOxBTNM50lOBTgoA)
 ![Discord](https://img.shields.io/discord/1163365511309049948)
 
-# Contact With Me:
 
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="youtube logo"  />
   </a>
@@ -24,7 +22,6 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitter logo"  />
   </a>
 
-# 💰 You can help me by Donating
   
 
 **A guide to using Kali Linux tools for web penetration testing, ethical hacking, forensics, and bug bounty. Covers setup, key tools, methodologies, and best practices. Optimized for security professionals.**
