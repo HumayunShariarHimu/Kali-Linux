@@ -29,20 +29,18 @@ Based in Bangladesh
 
 > A curated and organized collection of resources related to **Kali-Linux**.
 
+**Humayun Shariar Himu**  
+A Passionated Psychologist & Tech Lover!  
+Based in Bangladesh  
+[GitHub Profile](https://github.com/HumayunShariarHimu)
+
+# Kali-Linux
+
+> A curated and organized collection of resources related to **Kali-Linux**.
+
 **Maintained by [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)**
 
 # Kali Linux Tools Documentation
-
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UClhKVCHjOxBTNM50lOBTgoA)
-![Discord](https://img.shields.io/discord/1163365511309049948)
-
-# 💰 You can help me by Donating
-  
-
-**A guide to using Kali Linux tools for web penetration testing, ethical hacking, forensics, and bug bounty. Covers setup, key tools, methodologies, and best practices. Optimized for security professionals.**
-
-> [!Note]
-> This project is intended for educational and ethical purposes only. Unauthorized use, distribution, or modification of these tools without proper consent is prohibited. By using this repository, you agree to comply with all applicable laws and ethical guidelines. The author is not responsible for any misuse or damage caused by the tools provided herein.
 
 ## 1. Information Gathering
 
